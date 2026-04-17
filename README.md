@@ -1,12 +1,11 @@
 # 💫 About Me:
-Python Dev<br>
+Currently learning C# :D<br>
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nelsonnnnn.junior@gmail.com) 
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Neroo2&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Neroo2&theme=rose_pine&hide_border=false)<br/>
