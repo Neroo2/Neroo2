@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning C# :D<br>
+Python Dev<br>
 
 
 ## 🌐 Socials:
