@@ -1,20 +1,15 @@
-# 💫 About Me:
-Python Dev<br>
+# Hi there, I'm Nelson Dall'Ago Júnior 👋
+
+> I'm a Software Engineering Student based on Brazil, currently focusing on Machine Learning integrations.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nelsonnnnn.junior@gmail.com) 
+## 💻 Tech Stack & Tools
 
+*   **Languages:** [Python]
+*   **Frameworks & Libraries:** [FastAPI, Pandas, Scikit-Learn]
+*   **Databases:** [PostgreSQL]
+*   **Tools:** [Git, Docker]
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neroo2&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Neroo2&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neroo2&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Connect with me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Neroo2&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Neroo2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*   [LinkedIn](https://www.linkedin.com/in/nelson-jr-177863319/)
